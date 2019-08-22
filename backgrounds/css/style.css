@@ -1,0 +1,61 @@
+body, html {
+  height: 100%; 
+  margin: 0; 
+  color: #fff;
+
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+body {
+  background: url('../images/bg.svg') no-repeat;
+  background-size: cover;
+  padding-bottom: 500px; 
+}
+
+.left {
+  position: absolute;
+  top: 60%; 
+  width: 100px; 
+   
+}
+
+
+
+nav {
+  padding: 50px; 
+}
+
+nav ul {
+  list-style-type: none; 
+  float: right; 
+}
+
+nav ul li {
+  display: inline; 
+  color: #000;
+}
+
+nav ul li a {
+  
+  padding: 0 30px; 
+}
+
+#logo {
+  font-size: 2em; 
+}
+
+.container {
+  text-align: center; 
+  width: 60%; 
+  margin: 110px auto;
+
+}
+
+h1 {
+  font-size: 3.5em; 
+}
+
